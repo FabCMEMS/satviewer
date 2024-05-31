@@ -1,8 +1,5 @@
 "EDITO","European Digital Twin","Brussels","Belgium","EDITO","M","rgba(15,122,175,0.75)",50.85045,4.34878,"https://www.edito.eu"
 "CMS","Copernicus Marine Service","Toulouse","France","PRODUCER","M","rgba(175,225,175,0.75)",43.599998,1.43333,"https://marine.copernicus.eu/"
-"EMODnet","European Marine Observation and Data Network","Ostend","Belgium","PRODUCER","M","rgba(175,225,175,0.75)",51.215430,2.928656,"https://emodnet.ec.europa.eu/en"
-"BSC","Barcelona Supercomputing Center","Barcelona","Spain","HPC","P","rgba(255,255,0,0.75)",41.390205,2.154007,"https://www.bsc.es"
-"LUMI","LUMI Supercomputer","Kajaani","Finland","HPC","P","rgba(255,255,0,0.75)",64.22728,27.72846,"https://www.lumi-supercomputer.eu"
 "CMCC","Centro Euro-Mediterraneo sui Cambiamenti Climatici","Lecce","Italy","PRODUCER","P","rgba(175,225,175,0.75)",40.3533,18.174,"https://www.cmcc.it/it"
 "HCMR","Hellenic Centre for Marine Research","Anavyssos","Greece","PRODUCER","P","rgba(175,225,175,0.75)",37.73414,23.94389,"https://www.hcmr.gr/en/"
 "DMI","Danmarks Meteorologiske Institut","Copenhagen","Denmark","PRODUCER","P","rgba(175,225,175,0.75)",55.676098,12.568337,"https://www.dmi.dk"
@@ -28,7 +25,6 @@
 "POKAPOK","POKAPOK","Plouzané","France","PRODUCER","P","rgba(175,225,175,0.75)",48.3800,-4.6006,"https://www.edito.eu"
 "SOCIB","SOCIB","Palma de Mallorca","Spain","PRODUCER","P","rgba(175,225,175,0.75)",39.5667,2.6497,"https://www.edito.eu"
 "OceanScope","OceanScope","Brest, France","France","PRODUCER","P","rgba(175,225,175,0.75)",48.3900,-4.4869,"https://www.edito.eu"
-"CINECA","CINECA","Bologna","Italy","PRODUCER","P","rgba(175,225,175,0.75)",44.4939,11.3428,"https://www.edito.eu"
 "OGS","OGS","Trieste","Italy","PRODUCER","P","rgba(175,225,175,0.75)",45.6503,13.7703,"https://www.edito.eu"
 "Uni Bo","University Bologna","Bologna","Italy","PRODUCER","P","rgba(175,225,175,0.75)",44.4939,11.3428,"https://www.edito.eu"
 "LSCE-IPSL","LSCE-IPSL","Paris","France","PRODUCER","P","rgba(175,225,175,0.75)",48.8567,2.3522,"https://www.edito.eu"
@@ -47,3 +43,138 @@
 "Lobelia","Lobelia","Barcelona","Spain","PRODUCER","P","rgba(175,225,175,0.75)",41.3825,2.1769,"https://www.edito.eu"
 "SERCO","SERCO","Auderghem","Belgium","PRODUCER","P","rgba(175,225,175,0.75)",50,8172,4.4269,"https://www.edito.eu"
 "SCALETECH","SCALETECH","Potsdam","Germany","PRODUCER","P","rgba(175,225,175,0.75)",52.4000,13.0667,"https://www.edito.eu"
+"EMODnet","European Marine Observation and Data Network","Ostend","Belgium","PRODUCER","M","rgba(250,199,106,0.75)",51.215430,2.928656,"https://emodnet.ec.europa.eu/en"
+“CEDRE”,”Centre for Documentation Research and Experimentation on Accidental Water Pollution”,”Brest, France”,”FRANCE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,48.3900,-4.4869,”https://www.edito.eu”
+“INGV”,”Istituto Nazionale di Geofisica e Vulcanologia”,”Bologna”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,44.4939,11.3428,”https://www.edito.eu”
+“Tbilisi University”,”Tbilisi State University”,”Tbilisi”,”GEORGIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.716,44.783,”https://www.edito.eu”
+“52°North”,”52°North Spatial Information Research GmbH”,”Münster”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.9625,7.6256,”https://www.edito.eu”
+“AND”,”A.N.D. International”,”Paris”,”FRANCE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,48.8567,2.3522,”https://www.edito.eu”
+“ENEA”,”Agenzia nazionale per le nuove tecnologie”,”Rome”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.8931,12.4828,”https://www.edito.eu”
+“AGS”,”Albanian Geological Survey”,”Tirana”,”ALBANIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.3289,19.8178,”https://www.edito.eu”
+“AWI”,”Alfred Wegener Institute”,”Bremerhaven”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,53.5500,8.5833,”https://www.edito.eu”
+“ACC”,”Anguilla Community College”,”The Valley, Anguilla”,”ANGUILLA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,18.2208,-63.0517,”https://www.edito.eu”
+“AZTI”,”AZTI Tecnalia”,”Pasaia”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,43.3264,-1.9192,”https://www.edito.eu”
+“SOCIB”,”Balearic Islands Coastal Observing and Forecasting System”,”Palma de Mallorca”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,39.5667,2.6497,”https://www.edito.eu”
+“BSHC”,”Baltic Sea Hydrographic Commission”,”Monaco”,”MONACO”,”Producer”,”M”,”rgba(250,199,106,0.75)”,43.7333,7.416,”https://www.edito.eu”
+“RBINS-ODNATURE-BMDC”,”Belgian Marine Data Centre”,”Brussels”,”BELGIUM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,50.8467,4.3525,”https://www.edito.eu”
+“BGS”,”British Geological Survey”,”Keyworth”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.8739,-1.0831,”https://www.edito.eu”
+“MARUM”,”Center for Marine Environmental Sciences”,”Bremen”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,53.0758,8.8072,”https://www.edito.eu”
+“CEFAS”,”Centre for Environment, Fisheries and Aquaculture Science”,”Lowestoft”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.4800,1.7500,”https://www.edito.eu”
+“CCMAR”,”Centre for Marine Sciences”,”Faro, Portugal”,”PORTUGAL”,”Producer”,”M”,”rgba(250,199,106,0.75)”,37.0161,-7.9350,”https://www.edito.eu”
+“CETMAR”,”Centro Tecnologico del Mar”,”Vigo”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,42.2358,-8.7267,”https://www.edito.eu”
+“CNR-IIA”,”CNR, Institute of Atmospheric Pollution Research”,”Rome”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.8931,12.4828,”https://www.edito.eu”
+“CNR-IGAG”,”CNR, Institute of Environmental Geology and Geoengineering”,”Rome”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.8931,12.4828,”https://www.edito.eu”
+“COGEA”,”COGEA”,”Rome”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.8931,12.4828,”https://www.edito.eu”
+“CRPM”,”Conference of Peripheral Maritime Regions”,”Rennes”,”FRANCE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,48.1142,-1.6808,”https://www.edito.eu”
+“Coronis”,”Coronis Computing SL”,”Barcelona”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.3825,2.1769,”https://www.edito.eu”
+“HHI”,”Croatian Hydrographic Institute”,”Split, Croatia”,”CROATIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,43.5100,16.4400,”https://www.edito.eu”
+“CSIC-ICM”,”CSIC-ICM/ Institute of Marine Sciences”,”Barcelona”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.3825,2.1769,”https://www.edito.eu”
+“GSD”,”Cyprus Geological Survey”,”Nicosia”,”CYPRUS”,”Producer”,”M”,”rgba(250,199,106,0.75)”,35.1725,33.3650,”https://www.edito.eu”
+“AU-DCE”,”Danish Centre For Environment And Energy”,”Aarhus”,”DENMARK”,”Producer”,”M”,”rgba(250,199,106,0.75)”,56.1564,10.2097,”https://www.edito.eu”
+“GST”,”Danish Geodata Agency - Danish Hydrographic Office”,”Copenhagen”,”DENMARK”,”Producer”,”M”,”rgba(250,199,106,0.75)”,55.6761,12.5689,”https://www.edito.eu”
+“DDNI”,”Danube Delta National Institute”,”Tulcea”,”ROMANIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,45.1900,28.8000,”https://www.edito.eu”
+“Deltares”,”Deltares”,”Delft”,”NETHERLANDS”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.0117,4.3592,”https://www.edito.eu”
+“MTE-DGSCM”,”Directorate for Coast and Sea Sustainability. Ministry for Ecological Transition”,”Madrid”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,40.4169,-3.7033,”https://www.edito.eu”
+“DEU”,”Dokuz Eylul University”,”İzmir”,”TURKEY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,38.4127,27.1384,”https://www.edito.eu”
+“EOMAP”,”EOMAP GmbH & Co KG”,”Munich”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,48.1375,11.5750,”https://www.edito.eu”
+“ETT”,”ETT”,”Genoa”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,44.4072,8.9340,”https://www.edito.eu”
+“Eurofish”,”Eurofish”,”Copenhagen”,”DENMARK”,”Producer”,”M”,”rgba(250,199,106,0.75)”,55.6761,12.5689,”https://www.edito.eu”
+“FEED”,”Faroese Earth and Energy Directorate”,”Tórshavn”,”FAROE ISLANDS”,”Producer”,”M”,”rgba(250,199,106,0.75)”,62.0000,-6.7833,”https://www.edito.eu”
+“BGR”,”Federal Institute for Geosciences and Natural Resources”,”Hanover”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.3744,9.7386,”https://www.edito.eu”
+“BSH”,”Federal Maritime and Hydrographic Agency”,”Hamburg”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,53.551,9.993,”https://www.edito.eu”
+“SYKE”,”Finnish Environment Institute”,”Helsinki”,”FINLAND”,”Producer”,”M”,”rgba(250,199,106,0.75)”,60.1756,24.9342,”https://www.edito.eu”
+“FMI”,”Finnish Meteorological Institute”,”Helsinki”,”FINLAND”,”Producer”,”M”,”rgba(250,199,106,0.75)”,60.1756,24.9342,”https://www.edito.eu”
+“VLIZ”,”Flanders Marine Institute”,”Ostend”,”BELGIUM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.2258,2.9194,”https://www.edito.eu”
+“FMMPW “,”Flemish Ministry of Mobility and Public Works; Agency for Maritime and Coastal Services; Coastal Division”,”Brussels”,”BELGIUM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,50.8467,4.3525,”https://www.edito.eu”
+“Ifremer”,”French Research Institute for Exploitation of the Sea”,”Brest, France”,”FRANCE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,48.3900,-4.4869,”https://www.edito.eu”
+"GIS”,”Geodetic Institute of Slovenia”,”Ljubljana”,”SLOVENIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,46.0514,14.5061,”https://www.edito.eu”
+"IGR”,”Geological Institute of Romania”,”Bucharest”,”ROMANIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,44.439,26.096,”https://www.edito.eu”
+"HGI”,”Geological Survey of Croatia”,”Zagreb”,”CROATIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,45.815,15.966,”https://www.edito.eu”
+"GEUS”,”Geological Survey of Denmark and Greenland”,”Copenhagen”,”DENMARK”,”Producer”,”M”,”rgba(250,199,106,0.75)”,55.6761,12.5689,”https://www.edito.eu”
+"EGK”,”Geological Survey of Estonia”,”Tallinn”,”ESTONIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,59.4372,24.7450,”https://www.edito.eu”
+"GTK”,”Geological Survey of Finland”,”Espoo”,”FINLAND”,”Producer”,”M”,”rgba(250,199,106,0.75)”,60.2100,24.6600,”https://www.edito.eu”
+"GSI”,”Geological Survey of Ireland”,”Dublin”,”IRELAND”,”Producer”,”M”,”rgba(250,199,106,0.75)”,53.3497,-6.2603,”https://www.edito.eu”
+"GSI”,”Geological Survey of Israel”,”Jerusalem”,”ISRAEL”,”Producer”,”M”,”rgba(250,199,106,0.75)”,31.7789,35.2256,”https://www.edito.eu”
+"GEOZAVOD”,”Geological Survey of Montenegro”,”Podgorica”,”MONTENEGRO”,”Producer”,”M”,”rgba(250,199,106,0.75)”,42.4414,19.2628,”https://www.edito.eu”
+"NGU”,”Geological Survey of Norway”,”Trondheim”,”NORWAY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,63.4400,10.4000,”https://www.edito.eu”
+"GeoZS”,”Geological Survey of Slovenia”,”Ljubljana”,”SLOVENIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,46.0514,14.5061,”https://www.edito.eu”
+"SGU”,”Geological Survey of Sweden”,”Uppsala”,”SWEDEN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,59.8498,17.6389,”https://www.edito.eu”
+"TNO”,”Geological Survey of the Netherlands”,”The Hague”,”NETHERLANDS”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.0800,4.3100,”https://www.edito.eu”
+"GGSGC”,”GGS Geo Consultancy”,”Amsterdam”,”NETHERLANDS”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.3728,4.8936,”https://www.edito.eu”
+"GRID”,”GRID Arendal”,”Arendal”,”NORWAY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,58.4667,8.7667,”https://www.edito.eu”
+"HCMR”,”Hellenic Centre for Marine Research”,”Athens”,”GREECE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,37.9842,23.7281,”https://www.edito.eu”
+"HNHS”,”Hellenic Navy Hydrographic Service”,”Athens”,”GREECE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,37.9842,23.7281,”https://www.edito.eu”
+"IHM”,”Hydrographic Institute of the Navy”,”Madrid”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,40.4169,-3.7033,”https://www.edito.eu”
+"ISOR”,”Iceland GeoSurvey”,”Reykjavík”,”ICELAND”,”Producer”,”M”,”rgba(250,199,106,0.75)”,64.1475,-21.9350,”https://www.edito.eu”
+"ILVO”,”Institute for agricultural and fisheries research”,”Brussels”,”BELGIUM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,50.8467,4.3525,”https://www.edito.eu”
+"IGME”,”Institute of Geology and Mineral Exploration”,”Athens”,”GREECE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,37.9842,23.7281,”https://www.edito.eu”
+"IMBK”,”Institute of Marine Biology”,”Kotor”,”MONTENEGRO”,”Producer”,”M”,”rgba(250,199,106,0.75)”,42.4254,18.7712,”https://www.edito.eu”
+"IMR”,”Institute of Marine Research”,”Bergen”,”NORWAY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,60.3925,5.3233,”https://www.edito.eu”
+"IU-IMSM”,”Institute of Marine Science and Management”,”İzmir”,”TURKEY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,38.4127,27.1384,”https://www.edito.eu”
+"ISMAR”,”Institute of Marine Sciences”,”Venice”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,45.4397,12.3319,”https://www.edito.eu”
+"IMS METU”,”Institute of Marine Sciences Middle East Technical University”,”Ankara”,”TURKEY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,39.9358,32.8387,”https://www.edito.eu”
+"IMGW”,”Institute of Meteorology and Water Management”,”Warsaw”,”POLAND”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.2300,21.0111,”https://www.edito.eu”
+"IOF”,”Institute of Oceanography and Fisheries”,”Split, Croatia”,”CROATIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,43.5100,16.4400,”https://www.edito.eu”
+"IO BAS”,”Institute of Oceanology of the Bulgarian Academy of Sciences”,”Varna, Bulgaria”,”BULGARIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,43.2114,27.9111,”https://www.edito.eu”
+"ICES”,”International Council for the Exploration of the Sea”,”Copenhagen”,”DENMARK”,”Producer”,”M”,”rgba(250,199,106,0.75)”,55.6760,12.5689,”https://www.edito.eu”
+"IOLR”,”Israel Oceanographic and Limnological Research”,”Haifa”,”ISRAEL”,”Producer”,”M”,”rgba(250,199,106,0.75)”,32.8192,34.9992,”https://www.edito.eu”
+"INGV”,”Istituto Superiore per la Protezione e la Ricerca Ambientale”,”Rome”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.8930,12.4828,”https://www.edito.eu”
+"ISPRA”,”Italian Hydrographic Institute”,”Genoa”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,44.4072,8.9340,”https://www.edito.eu”
+"JNCC”,”Joint Nature Conservation Committee”,”Peterborough”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.5725,-0.2431,”https://www.edito.eu”
+"LVGMC”,”Latvian Environment, Geology and Meteorology Centre”,”Riga”,”LATVIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,56.9475,24.1069,”https://www.edito.eu”
+"LHEI”,”Latvian Institute of Aquatic Ecology”,”Riga”,”LATVIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,56.9475,24.1069,”https://www.edito.eu”
+"LGT”,”Lithuanian Geological Survey”,”Vilnius”,”LITHUANIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,54.6872,25.2800,”https://www.edito.eu”
+"LJ”,”Lovell Johns Mapping Company”,”Oxford”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.7519,-1.2578,”https://www.edito.eu”
+"MMTI-CSD”,”Malta Ministry of Transport and Infrastructure, Continental Shelf Department”,”Valletta”,”MALTA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,35.8978,14.5125,”https://www.edito.eu”
+"MFRI”,”Marine and Freshwater Research Institute”,”Reykjavík”,”ICELAND”,”Producer”,”M”,”rgba(250,199,106,0.75)”,64.1475,-21.9350,”https://www.edito.eu”
+"PLOCAN”,”PLOCAN”,”Gran Canaria”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,27.9586,-15.5925,”https://www.edito.eu”
+"CORES”,”CORES Ltd.”,”Varna, Bulgaria”,”BULGARIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,43.2114,27.9111,”https://www.edito.eu”
+"DEME”,”DEME”,”Zwijndrecht, Belgium”,”BELGIUM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.2167,4.3333,”https://www.edito.eu”
+"ESGEMAR”,”ESGEMAR, S.A.”,”Barcelona”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.3825,2.1769,”https://www.edito.eu”
+"GAMMA”,”Gamma Consulting”,”Tbilisi”,”GEORGIA”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.716,44.783,”https://www.edito.eu”
+"SeaTopic”,”SeaTopic”,”Paris”,”FRANCE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,48.8567,2.3522,”https://www.edito.eu”
+"SOCIB”,”SOCIB”,”Palma de Mallorca”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,39.5667,2.6497,”https://www.edito.eu”
+"HRW”,”HR Wallingford”,”Wallingford, Oxfordshire”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.5990,-1.1250,”https://www.edito.eu”
+"University Genoa”,”University of Genoa”,”Genoa”,”ITALY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,44.4072,8.9340,”https://www.edito.eu”
+"Envision”,”Envision Marine Ltd.”,”Swansea”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.6167,-3.9500,”https://www.edito.eu”
+"RPS Ocean Science”,”RPS Ocean Science”,”South Kingstown, Rhode Island”,”UNITED STATES”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.4475,-71.5272,”https://www.edito.eu”
+"LRA”,”Lange Research Aircraft GmbH “,”Zweibrücken”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,49.2494,7.3608,”https://www.edito.eu”
+"PUCO”,”Polytechnic University of Catalonia & Obsea”,”Barcelona”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.3825,2.1769,”https://www.edito.eu”
+"ISTMARETEC”,”IST & MARETEC”,”Lisbon”,”PORTUGAL”,”Producer”,”M”,”rgba(250,199,106,0.75)”,38.736,-9.142,”https://www.edito.eu”
+"TEP”,”Thames Estuary Partnership”,”London”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.5072,-0.1275,”https://www.edito.eu”
+"Helzel Messtechnik”,”Helzel Messtechnik GmbH”,”Kaltenkirchen”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,53.8397,9.9603,”https://www.edito.eu”
+"NSSSAI”,”Nodalpoint System & SatShipAI”,”Athens”,”GREECE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,37.9842,23.7281,”https://www.edito.eu”
+"Saildrone”,”Saildrone”,”San Francisco”,”UNITED STATES”,”Producer”,”M”,”rgba(250,199,106,0.75)”,37.7775,-122.4164,”https://www.edito.eu”
+"Sofar”,”Sofar”,”San Francisco”,”UNITED STATES”,”Producer”,”M”,”rgba(250,199,106,0.75)”,37.7775,-122.4164,”https://www.edito.eu”
+"DotOcean”,”dotOcean”,”Antwerp”,”BELGIUM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.2210,4.3997,”https://www.edito.eu”
+"Raceix”,”Raceix”,”Munster”,”IRELAND”,”Producer”,”M”,”rgba(250,199,106,0.75)”,63.725,8.744,”https://www.edito.eu”
+"dCX”,”dCarbonX”,”London”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.5072,-0.1275,”https://www.edito.eu”
+"SUT”,”The Society for Underwater Technology “,”London”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,51.5072,-0.1275,”https://www.edito.eu”
+"Cerema”,”Cerema”,”Paris”,”FRANCE”,”Producer”,”M”,”rgba(250,199,106,0.75)”,48.8567,2.3522,”https://www.edito.eu”
+"Develogic”,”develogic”,”Hamburg”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,53.550,9.9936,”https://www.edito.eu”
+"CIBIO”,”CIBIO/BIOPOLIS”,”Porto”,”PORTUGAL”,”Producer”,”M”,”rgba(250,199,106,0.75)”,41.1495,-8.6108,”https://www.edito.eu”
+"CMMI”,”CMMI”,”Limassol”,”CYPRUS”,”Producer”,”M”,”rgba(250,199,106,0.75)”,34.6750,33.0443,”https://www.edito.eu”
+"Fugro”,”Fugro”,”Leidschendam”,”NETHERLANDS”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.0833,4.4000,”https://www.edito.eu”
+"e-BO”,”e-BO Enterprises”,”Roeselare”,”BELGIUM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,50.9447,3.1233,”https://www.edito.eu”
+"MCW”,”Marine Centre Wales”,”Bangor”,”UNITED KINGDOM”,”Producer”,”M”,”rgba(250,199,106,0.75)”,44.8030,-68.7675,”https://www.edito.eu”
+"Puertos del Estado”,”PdE”,”Madrid”,”SPAIN”,”Producer”,”M”,”rgba(250,199,106,0.75)”,40.4169,-3.7033,”https://www.edito.eu”
+"VO”,”Voice of the Ocean”,”Lisbon”,”PORTUGAL”,”Producer”,”M”,”rgba(250,199,106,0.75)”,38.736,-9.142,”https://www.edito.eu”
+"OV”,”Oceano Vox”,”Lisbon”,”PORTUGAL”,”Producer”,”M”,”rgba(250,199,106,0.75)”,38.736,-9.142,”https://www.edito.eu”
+"RGI”,”Renewable Grid Initiative”,”Berlin”,”GERMANY”,”Producer”,”M”,”rgba(250,199,106,0.75)”,52.52,13.404,”https://www.edito.eu”
+"BSC","Barcelona Supercomputing Center","Barcelona","Spain","HPC","P","rgba(255,255,0,0.75)",41.390205,2.154007,"https://www.bsc.es"
+"LUMI","LUMI Supercomputer","Kajaani","Finland","HPC","P","rgba(255,255,0,0.75)",64.22728,27.72846,"https://www.lumi-supercomputer.eu"
+"CINECA","CINECA","Bologna","Italy","PRODUCER","P","rgba(255,255,0,0.75)",44.4939,11.3428,"https://www.edito.eu"
+"MOi","Mercator Océan International","Toulouse","France","PRODUCER","P","rgba(255,255,0,0.75)",43.6044,1.4439,"https://www.edito.eu"
+“VLIZ”,”Flanders Marine Institute”,”Ostend”,”BELGIUM”,”Producer”,”P”,”rgba(255,255,0,0.75)”,51.2258,2.9194,”https://www.edito.eu”
+“IMT”,”IMT Atlantique”,”Nantes”,”FRANCE”,”Producer”,”P”,”rgba(255,255,0,0.75)”,47.2166,-1.55,”https://www.edito.eu”
+"+COLAB”,”+ATLANTIC COLAB”,”Lisbon”,”PORTUGAL”,”Producer”,”P”,”rgba(255,255,0,0.75)”,38.736,-9.142,”https://www.edito.eu”
+"SOCIB”,”SOCIB”,”Palma de Mallorca”,”SPAIN”,”Producer”,”P”,”rgba(255,255,0,0.75)”,39.5667,2.6497,”https://www.edito.eu”
+"DMI","Danmarks Meteorologiske Institut","Copenhagen","Denmark","PRODUCER","P","rgba(255,255,0,0.75)",55.676098,12.568337,"https://www.dmi.dk"
+“Deltares”,”Deltares”,”Delft”,”NETHERLANDS”,”Producer”,”P”,”rgba(255,255,0,0.75)”,52.0117,4.3592,”https://www.edito.eu”
+“EuroHPC”,”EuroHPC”,”Luxembourg”,”LUXEMBOURG”,”Producer”,”P”,”rgba(255,255,0,0.75)”,49.8157,6.1315,”https://www.edito.eu”
+"HEREON","HEREON","Hamburg","Germany","PRODUCER","P","rgba(255,255,0,0.75)",53.551,9.9936,"https://www.edito.eu"
+"CMCC","Centro Euro-Mediterraneo sui Cambiamenti Climatici","Lecce","Italy","PRODUCER","P","rgba(255,255,0,0.75)",40.3533,18.174,"https://www.cmcc.it/it"
+"CNRS","CNRS","Grenoble","France","PRODUCER","P","rgba(255,255,0,0.75)",45.1666,5.7166,"https://www.cmcc.it/it"
+"NERSC","Nansen Environmental and Remote Sensing Center","Bergen","Norway","PRODUCER","P","rgba(255,255,0,0.75)",60.3912628,5.3220544,"https://nersc.no/en/"
+"SSBE","Seascape Belgium","Ostende","Belgium","PRODUCER","P","rgba(255,255,0,0.75)",51.215430,2.928656,"https://nersc.no/en/"
+"Uni Bo","University Bologna","Bologna","Italy","PRODUCER","P","rgba(255,255,0,0.75)",44.4939,11.3428,"https://www.edito.eu"
